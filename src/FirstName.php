@@ -12,4 +12,9 @@ class FirstName{
     {
         return strlen($this->name);
     }
+
+    public function something():string
+    {
+        return $this->name;
+    }
 }
