@@ -1,5 +1,5 @@
 <?php 
-    namespace Src\Firstpackage;
+    namespace Rh\Firstpackage;
 
 class FirstName{
     public string $name;
