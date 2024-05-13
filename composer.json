@@ -1,0 +1,18 @@
+{
+    "name": "rh/firstpackage",
+    "description": "This is my first package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rh\\Firstpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahat Hossain",
+            "email": "webmaaz@gmail.com"
+        }
+    ],
+    "require": {}
+}
